@@ -46,6 +46,32 @@
             "url": "injective-grpc.lavenderfive.com:443"
         }
     ],
+    "lcd_endpoint" : [
+        {
+            "provider": "Cosmostation",
+            "url": "https://lcd-injective.cosmostation.io/"
+        },
+        {
+            "provider": "Lavender.Five Nodes 🐝",
+            "url": "https://injective-api.lavenderfive.com/"
+        },
+        {
+            "provider": "High Stakes 🇨🇭",
+            "url": "https://injective-api.highstakes.ch/"
+        },
+        {
+            "provider": "WhisperNode 🤐",
+            "url": "https://lcd-injective.whispernode.com/"
+        },
+        {
+            "provider": "Allnodes ⚡️ Nodes & Staking",
+            "url": "https://injective-rest.publicnode.com/"
+        },
+        {
+            "provider": "Ecostake",
+            "url": "https://rest-injective.ecostake.com/"
+        }
+    ],
     "explorer" : {
         "name": "Mintscan",
         "url": "https://www.mintscan.io/injective/",
